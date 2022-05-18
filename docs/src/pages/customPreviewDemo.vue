@@ -84,7 +84,7 @@ var javascript = `
 var style = `
 <style>
   #customdropzone {
-    background-color: orange;
+    background-color: red;
     font-family: 'Arial', sans-serif;
     letter-spacing: 0.2px;
     color: #777;
